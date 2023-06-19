@@ -11,12 +11,12 @@ function App() {
       text: "Ir para academia.",
       category: "Pessoal",
       isComplete: false,
-    }
+    },
     { id: 3,
       text: "Estudar React.",
       category: "Estudos",
       isComplete: false,
-    }
+    },
   ]);
 
   return (
